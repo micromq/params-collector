@@ -1,5 +1,5 @@
 {
-  "name": "params-collector",
+  "name": "@micromq/params-collector",
   "version": "1.0.0",
   "description": "Middleware for collect params in one object (params = params + query + body).",
   "main": "src/index.js",
