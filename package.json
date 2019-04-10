@@ -1,0 +1,25 @@
+{
+  "name": "params-collector",
+  "version": "1.0.0",
+  "description": "Middleware for collect params in one object (params = params + query + body).",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micromq/params-collector.git"
+  },
+  "keywords": [
+    "params",
+    "collector",
+    "middleware",
+    "micromq"
+  ],
+  "author": "Mikhail Semin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/micromq/params-collector/issues"
+  },
+  "homepage": "https://github.com/micromq/params-collector#readme"
+}
